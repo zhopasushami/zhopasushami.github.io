@@ -1,6 +1,6 @@
 ---
 title: "Boring Puppy Day"
-date: 2022-03-19
+date: 2024-03-19
 description: "What happens on a puppy day?"
 cover: "boringday.jpeg"
 tags: ["about", "dairy"]
