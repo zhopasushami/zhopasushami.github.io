@@ -7,14 +7,14 @@ tags: ["about", "instructions"]
 
 # Instructions for Yoki
 
+*Download the instructions in German: [instruction_de.pdf](instruction_de.pdf)*
+
 General Information:
 
 - Name: Yoki
 - Gender: Female
 - Date of Birth: 01/09/2023
 - Microchipped and vaccinated, not spayed
-
-# Instructions for Yoki
 
 ---
 
@@ -142,5 +142,3 @@ This routine is a guideline. Yoki is adaptable and accustomed to both long outdo
 | **Back / Long Leash** | If Yoki pulls on a long leash, say “Back” when the leash is taut and wait for her to return to you. Praise her and give a treat when she returns, then continue. | Reduces pulling |
 
 
-You can download the above instruction on how to use Yoki here:
-- in German [instruction_de](instruction_de.pdf)
