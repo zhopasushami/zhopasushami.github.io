@@ -5,8 +5,6 @@ description: "How to use"
 tags: ["about", "instructions"]
 ---
 
-# Instructions for Yoki
-
 *Download the instructions in German: [instruction_de.pdf](instruction_de.pdf)*
 
 General Information:
@@ -140,5 +138,4 @@ This routine is a guideline. Yoki is adaptable and accustomed to both long outdo
 | **2 Steps** | Place a treat on the floor, step back two steps. Yoki eats the treat and follows. Place another treat, step back again, repeat at least five times. | Distraction/Calming (e.g., during walks) |
 | **Lass es** | Place a treat on your palm, say “Lass es,” hold it near her nose and let her focus on it. After a while, say “Da” to allow her to eat it. | Calming |
 | **Back / Long Leash** | If Yoki pulls on a long leash, say “Back” when the leash is taut and wait for her to return to you. Praise her and give a treat when she returns, then continue. | Reduces pulling |
-
 
